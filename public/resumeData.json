@@ -1,0 +1,170 @@
+{
+  "main": {
+    "name": "Preethi Sudha Vasudev",
+    "occupation": "Full Stack Developer",
+    "description": "I am a Javascript and Python enthusiast. I am experienced in leveraging latest web frameworks and libraries to provide robust Full Stack solutions.",
+    "image": "myphoto.JPG",
+    "bio": "My name is Preethi, I am a Javascript and Python enthusiast. I am experienced in leveraging latest web frameworks and libraries to provide robust Full Stack solutions and iterative approaches to complex engineering problems using the best tools and techniques.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "preethivijayapuri@gmail.com",
+    "phone": "281-796-8433",
+    "address": {
+      "street": "4425 Casa Robles Dr",
+      "city": "Leander",
+      "state": "TX",
+      "zip": "78641"
+    },
+    "website": "http://www.timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/preethi.vasudev.5",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/preethi-sudha-vasudev-0b48787a/" ,
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/preethivijayapuri/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/preethiGIT/" ,
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Texas State University",
+        "degree": "Masters in Computer Science",
+        "graduated": "January 2015",
+        "description": ""
+      },
+      {
+        "school": "Vishveshwaraiya University",
+        "degree": "Bachelors in Computer Science",
+        "graduated": "April 2011",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Long-View Micro",
+        "title": "Web Developer",
+        "years": "Aug-2019 - Present",
+        "description": "Create a bug free website for the user with user friendly UI.Design search engine optimization techniques to improve the website.Javascript form validations using regular expressions."
+      },
+      {
+        "company": "Auto Hero",
+        "title": "Software Developer",
+        "years": "Sept-2016-Sept-2017",
+        "description": "Designed and implemented solutions for business problems using PHP using symphony2 components. Data modelling and service definitions integrations using internal and external API. Building front-end components with javascript,HTML and CSS.Processing financial data. Responsible for most vital part of development life cycle including reviewing specifications, implementations and deployment."
+      },
+      {
+        "company": "StudioSIX-5",
+        "title": "Software Developer",
+        "years": "July 2016-Oct-2016",
+        "description": "Worked on an interior designing company website which uses JavaScript, jQuery and Ajax to communicate with the server-side scripts."
+      },
+      {
+        "company": "Neubus",
+        "title": "Software Developer",
+        "years": "June-2016-Aug-2016",
+        "description": "Worked in an agile environment to build and maintain the website using PHP laravel framework. Used HTML,CSS and javascript to design the front end. Designed unit tests to make sure the code works as needed."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "C++",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "AWS Services",
+        "level": "80%"
+      },
+      {
+        "name": "npm",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Sunset",
+        "image": "art-2.png",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "Ice covered mountain",
+        "image": "art-5.png"
+      },
+      {
+        "title": "Happy family",
+        
+        "image": "art-3.png"
+      },
+      {
+        "title": "Scenery",
+        
+        "image": "art-6.png"
+      },
+      {
+        "title": "Patterns",
+       
+        "image": "art1.png"
+      },
+      {
+        "title": "Floral pattern",
+        "image": "art-4.png"
+      },
+      {
+        "title": "Coffee Painting",
+        "image": "art-7.png",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Mrs Vasudev possesses excellent specialist knowledge extending far beyond mainstream. She was able to understand complex situations immediately and was able to find excellent solutions right away. ",
+        "user": "Simon Tanyanskiy"
+      }
+    ]
+  }
+}
