@@ -1,3 +1,3 @@
-Preview
-Click the link to previw the website.
+PREVIEW
+
 https://preethi89-portfolio.netlify.app
