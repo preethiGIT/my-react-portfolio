@@ -1,3 +1,3 @@
 PREVIEW
 
-https://preethi89-portfolio.netlify.app
+[PreethiPortfolio](https://preethi89-portfolio.netlify.app)
